@@ -49,7 +49,7 @@ Jellyfin Web is the frontend used for most of the clients available for end user
 1. Clone or download this repository.
 
    ```sh
-   git clone https://github.com/jellyfin/jellyfin-web.git
+   git clone https://github.com/bluestreamclub/jellyfin-web.git
    cd jellyfin-web
    ```
 
