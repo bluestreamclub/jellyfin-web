@@ -1,6 +1,6 @@
 * {
     scrollbar-width: thin;
-    scrollbar-color: #3b3b3b #202020;
+    scrollbar-color: #3b3b3b #080519;
 }
 
 .skinHeader,
@@ -12,7 +12,7 @@ html {
 .wizardStartForm,
 .ui-corner-all,
 .ui-shadow {
-    background-color: #101010;
+    background-color: #02000c;
 }
 
 .emby-collapsible-button {
@@ -21,7 +21,7 @@ html {
 }
 
 .skinHeader-withBackground {
-    background-color: #202020;
+    background-color: #080519;
 }
 
 .skinHeader.semiTransparent {
@@ -46,7 +46,7 @@ html {
 .nowPlayingPlaylist,
 .nowPlayingContextMenu,
 html {
-    background-color: #101010;
+    background-color: #02000c;
 }
 
 .backgroundContainer.withBackdrop {
@@ -81,12 +81,12 @@ html {
 }
 
 .button-submit {
-    background: #00a4dc;
+    background: #403eb7;
     color: #fff;
 }
 
 .button-submit:focus {
-    background: #0cb0e8;
+    background: #3836c9;
     color: #fff;
 }
 
@@ -123,7 +123,7 @@ html {
 .formDialogHeader:not(.formDialogHeader-clear),
 .paperList,
 .visualCardBox {
-    background-color: #202020;
+    background-color: #080519;
 }
 
 .layout-tv .formDialogFooter:not(.formDialogFooter-clear) {
@@ -179,7 +179,7 @@ html {
 
 .appfooter,
 .playlistSectionButton {
-    background: #202020;
+    background: #080519;
     color: #ccc;
     color: rgba(255, 255, 255, 0.78);
 }
@@ -321,7 +321,7 @@ html {
 
 .mainDrawer,
 .drawer-open {
-    background-color: #101010;
+    background-color: #02000c;
 }
 
 .navMenuOption:hover {
@@ -480,11 +480,11 @@ html {
 #comicsPlayer,
 #bookPlayer,
 #pdfPlayer {
-    background: #101010;
+    background: #02000c;
 }
 
 #comicsPlayer .swiper-pagination {
-    background: #101010;
+    background: #02000c;
     color: #fff;
 }
 
@@ -498,7 +498,7 @@ html {
 }
 
 #dialogToc {
-    background-color: #101010;
+    background-color: #02000c;
 }
 
 #dialogToc .bookplayerButtonIcon {

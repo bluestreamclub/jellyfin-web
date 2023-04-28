@@ -63,6 +63,7 @@ const Home: FunctionComponent = () => {
 
             case 1:
                 depends = 'favorites';
+                break;
         }
 
         return import(/* webpackChunkName: "[request]" */ `../controllers/${depends}`).then(({ default: controllerFactory }) => {

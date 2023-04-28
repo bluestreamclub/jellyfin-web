@@ -124,7 +124,9 @@ export function setTabs(view, selectedIndex, getTabsFn, getTabContainersFn, onBe
 
             index++;
             return tabHtml;
-        }).join('') + '</div></div>';
+        }).join('')
+            + "<button type='button' is='emby-button' onclick='location.href = \"https://discord.com/channels/1070481387754373231/1070481388765192315\"' class='emby-tab-button'><div class='emby-button-foreground'>Nous suggérer un média</div></div>"
+        + '</div></div>';
 
         tabsContainerElem.innerHTML = tabsHtml;
         window.CustomElements.upgradeSubtree(tabsContainerElem);

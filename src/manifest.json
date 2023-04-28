@@ -1,11 +1,11 @@
 {
-    "name": "Jellyfin",
-    "description": "The Free Software Media System",
-    "lang": "en-US",
-    "short_name": "Jellyfin",
+    "name": "bluestream",
+    "description": "Serveur multimédia français alimenté par la communauté",
+    "lang": "fr-FR",
+    "short_name": "bluestream",
     "start_url": "index.html#!/home.html",
-    "theme_color": "#101010",
-    "background_color": "#101010",
+    "theme_color": "#02000c",
+    "background_color": "#02000c",
     "display": "standalone",
     "icons": [
         {

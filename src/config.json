@@ -13,7 +13,7 @@
     }, {
       "name": "Dark",
       "id": "dark",
-      "color": "#202020",
+      "color": "#080519",
       "default": true
     }, {
       "name": "Light",
@@ -30,7 +30,7 @@
     }
   ],
   "menuLinks": [],
-  "servers": [],
+  "servers": ["https://bluestream-jellyfin.cp09.cloudboxes.io"],
   "plugins": [
     "playAccessValidation/plugin",
     "experimentalWarnings/plugin",
